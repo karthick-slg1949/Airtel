@@ -1,3 +1,3 @@
 def wish():
-print"hello"
+print("hello")
 wish()
