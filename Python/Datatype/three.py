@@ -15,5 +15,5 @@ fa = frozenset(s1)
 
 def wish():
 
-    passs
+    pass
     print(wish())
